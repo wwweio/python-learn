@@ -1,1 +1,2 @@
-python learn
+### 目录说明
+一些python基础语法学习的内容
